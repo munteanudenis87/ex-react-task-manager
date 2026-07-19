@@ -133,3 +133,7 @@ td.doing{
 td.done{
   background-color: green;
 }
+form{
+  display: flex;
+  flex-direction: column;
+}
