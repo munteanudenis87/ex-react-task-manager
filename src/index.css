@@ -145,3 +145,19 @@ form{
   margin: 1rem;
   background-color: #eef0f3;
 }
+.modal-overlay{
+  margin-left: 40%;
+}
+.modal{
+  background-color: #eee4f5;
+  margin-top: 15%;
+  border: solid grey;
+  border-radius: 12px;
+  padding: 1rem;
+  width: 350px;
+  height: 320px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-left: 40%;
+}
