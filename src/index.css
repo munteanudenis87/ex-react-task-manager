@@ -123,6 +123,7 @@ nav a {
 }
 .table{
   text-align: left;
+  margin-top: 1rem;
 }
 td.todo{
   background-color: red;
